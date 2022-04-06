@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.733e217e.css",
+    "main.js": "/static/js/main.127197a1.js",
+    "static/js/787.dd4029b4.chunk.js": "/static/js/787.dd4029b4.chunk.js",
+    "static/media/castillo03.jpg": "/static/media/castillo03.f522e66d94fc96a82d32.jpg",
+    "static/media/char1-faded.png": "/static/media/char1-faded.90d20163ab426744645f.png",
+    "static/media/dragon fight 70.png": "/static/media/dragon fight 70.58e9b09ce6bab2a5a278.png",
+    "static/media/avatar diego.svg": "/static/media/avatar diego.7cde53edb571217a97ca70459b3090f8.svg",
+    "static/media/avatar diogo.svg": "/static/media/avatar diogo.2f1a30c919603db8a8208a6bff8c62cd.svg",
+    "static/media/avatar ramon.svg": "/static/media/avatar ramon.bf9b8c9faeafd693f1261fbfa7db4cc0.svg",
+    "static/media/avatar ch.svg": "/static/media/avatar ch.7a45f252f504bc7ef093560e63c29e4c.svg",
+    "static/media/logo.png": "/static/media/logo.c9246e11d92d6cae005b.png",
+    "static/media/logo zone world.png": "/static/media/logo zone world.9ad2b560d9dc765f810a.png",
+    "static/media/brise.png": "/static/media/brise.9ed33d89de8a88baad58.png",
+    "static/media/roadmap bullet 90deg.svg": "/static/media/roadmap bullet 90deg.46c6b73add5879934141b6b5eb3be3d4.svg",
+    "static/media/roadmap bullet.svg": "/static/media/roadmap bullet.3d08d5ed251cdd3dbe2c22ebea68847b.svg",
+    "static/media/gradiente verde.jpg": "/static/media/gradiente verde.f37f97b9c1631611ecf5.jpg",
+    "static/media/grafico pizza.png": "/static/media/grafico pizza.059bd723c31d94777c7f.png",
+    "static/media/Espada.png": "/static/media/Espada.9fb51ed6b7ec8913484b.png",
+    "static/media/logo tower up.png": "/static/media/logo tower up.569e3dbc0fe149bda6fc.png",
+    "static/media/Arco.png": "/static/media/Arco.49a236726b84f0e19d92.png",
+    "static/media/Lança.png": "/static/media/Lança.5a5d170757a28751664b.png",
+    "static/media/verichains.png": "/static/media/verichains.454dcdad32965ca2e39d.png",
+    "static/media/Rockstar-ExtraBold.otf": "/static/media/Rockstar-ExtraBold.704a10ce14af026a17d3.otf",
+    "static/media/android.svg": "/static/media/android.52bc654d81a3a8d72b3aff3b8635bcdf.svg",
+    "static/media/ios.svg": "/static/media/ios.09403c25a76bdc045fe7ad83f178c47a.svg",
+    "static/media/profile card bg.svg": "/static/media/profile card bg.94a37bb6d7d31a273c9951ba42cf6974.svg",
+    "index.html": "/index.html",
+    "static/media/telegram.svg": "/static/media/telegram.3e8ed69e560bc83a04cc2ec4133707d7.svg",
+    "static/media/twitter.svg": "/static/media/twitter.724cd0b04f3c3dcdda1713cd6a7d3e3b.svg",
+    "static/media/windows.svg": "/static/media/windows.e9af894b8f14154c321ebbf3ecbbd203.svg",
+    "main.733e217e.css.map": "/static/css/main.733e217e.css.map",
+    "main.127197a1.js.map": "/static/js/main.127197a1.js.map",
+    "787.dd4029b4.chunk.js.map": "/static/js/787.dd4029b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.733e217e.css",
+    "static/js/main.127197a1.js"
+  ]
+}
