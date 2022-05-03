@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.733e217e.css",
-    "main.js": "/static/js/main.127197a1.js",
+    "main.css": "/static/css/main.6c25d625.css",
+    "main.js": "/static/js/main.76ee3f29.js",
     "static/js/787.dd4029b4.chunk.js": "/static/js/787.dd4029b4.chunk.js",
     "static/media/castillo03.jpg": "/static/media/castillo03.f522e66d94fc96a82d32.jpg",
     "static/media/char1-faded.png": "/static/media/char1-faded.90d20163ab426744645f.png",
@@ -14,14 +14,20 @@
     "static/media/logo zone world.png": "/static/media/logo zone world.9ad2b560d9dc765f810a.png",
     "static/media/brise.png": "/static/media/brise.9ed33d89de8a88baad58.png",
     "static/media/roadmap bullet 90deg.svg": "/static/media/roadmap bullet 90deg.46c6b73add5879934141b6b5eb3be3d4.svg",
-    "static/media/roadmap bullet.svg": "/static/media/roadmap bullet.3d08d5ed251cdd3dbe2c22ebea68847b.svg",
     "static/media/gradiente verde.jpg": "/static/media/gradiente verde.f37f97b9c1631611ecf5.jpg",
-    "static/media/grafico pizza.png": "/static/media/grafico pizza.059bd723c31d94777c7f.png",
     "static/media/Espada.png": "/static/media/Espada.9fb51ed6b7ec8913484b.png",
     "static/media/logo tower up.png": "/static/media/logo tower up.569e3dbc0fe149bda6fc.png",
+    "static/media/grafico-pizza_0006_Layer-9.png": "/static/media/grafico-pizza_0006_Layer-9.777eecce8fc97caaa716.png",
     "static/media/Arco.png": "/static/media/Arco.49a236726b84f0e19d92.png",
     "static/media/Lança.png": "/static/media/Lança.5a5d170757a28751664b.png",
     "static/media/verichains.png": "/static/media/verichains.454dcdad32965ca2e39d.png",
+    "static/media/grafico-pizza_0005_Layer-8.png": "/static/media/grafico-pizza_0005_Layer-8.7dd0bf1143d431f00f95.png",
+    "static/media/grafico-pizza_0002_Layer-5.png": "/static/media/grafico-pizza_0002_Layer-5.18b0fbdb5c91e4ebdac1.png",
+    "static/media/grafico-pizza_0001_Layer-4.png": "/static/media/grafico-pizza_0001_Layer-4.3f4aebd2fa56aa23baed.png",
+    "static/media/grafico pizza.jpg": "/static/media/grafico pizza.2a6ca61417823761d03d.jpg",
+    "static/media/grafico-pizza_0000_Layer-3.png": "/static/media/grafico-pizza_0000_Layer-3.d014868e0cc2ab3acd88.png",
+    "static/media/grafico-pizza_0003_Layer-6.png": "/static/media/grafico-pizza_0003_Layer-6.1ad3aa64fd9d139b453a.png",
+    "static/media/grafico-pizza_0004_Layer-7.png": "/static/media/grafico-pizza_0004_Layer-7.a5198f778d61a128ebda.png",
     "static/media/Rockstar-ExtraBold.otf": "/static/media/Rockstar-ExtraBold.704a10ce14af026a17d3.otf",
     "static/media/android.svg": "/static/media/android.52bc654d81a3a8d72b3aff3b8635bcdf.svg",
     "static/media/ios.svg": "/static/media/ios.09403c25a76bdc045fe7ad83f178c47a.svg",
@@ -30,12 +36,12 @@
     "static/media/telegram.svg": "/static/media/telegram.3e8ed69e560bc83a04cc2ec4133707d7.svg",
     "static/media/twitter.svg": "/static/media/twitter.724cd0b04f3c3dcdda1713cd6a7d3e3b.svg",
     "static/media/windows.svg": "/static/media/windows.e9af894b8f14154c321ebbf3ecbbd203.svg",
-    "main.733e217e.css.map": "/static/css/main.733e217e.css.map",
-    "main.127197a1.js.map": "/static/js/main.127197a1.js.map",
+    "main.6c25d625.css.map": "/static/css/main.6c25d625.css.map",
+    "main.76ee3f29.js.map": "/static/js/main.76ee3f29.js.map",
     "787.dd4029b4.chunk.js.map": "/static/js/787.dd4029b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.733e217e.css",
-    "static/js/main.127197a1.js"
+    "static/css/main.6c25d625.css",
+    "static/js/main.76ee3f29.js"
   ]
 }
